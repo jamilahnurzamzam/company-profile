@@ -1,8 +1,11 @@
-# JalanYuk — Company Profile
+Nama: Jamilah Nur Zamzam
+NIM: 2505668
+Kelas: Pendidikan Ilmu Komputer - 3C
 
+# Jelajah — Company Profile
 **Explore More, Worry Less.**
 
-## Deskripsi Proyek
+## Deskripsi proyek:
 Jelajah adalah website company profile untuk layanan perjalanan wisata yang membantu pengguna mengenal layanan dan menemukan inspirasi destinasi wisata.
 
 ## Fitur
