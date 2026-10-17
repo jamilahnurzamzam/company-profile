@@ -1,6 +1,6 @@
 Nama: Jamilah Nur Zamzam
-NIM: 2505668
-Kelas: Pendidikan Ilmu Komputer - 3C
+**NIM: 2505668
+**Kelas: Pendidikan Ilmu Komputer - 3C
 
 # Jelajah — Company Profile
 **Explore More, Worry Less.**
