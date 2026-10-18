@@ -1,16 +1,38 @@
-# React + Vite
+Nama: Jamilah Nur Zamzam
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NIM: 2505668
 
-Currently, two official plugins are available:
+Kelas: Pendidikan Ilmu Komputer — 3C
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Jelajah — Company Profile
+**Explore More, Worry Less.**
 
-## React Compiler
+## Deskripsi proyek:
+Jelajah adalah website company profile untuk layanan perjalanan wisata yang membantu pengguna mengenal layanan dan menemukan inspirasi destinasi wisata.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Fitur
+- Halaman Home
+- Halaman About
+- Halaman Services
+- Halaman Destinations dengan filter kategori
+- Halaman Contact dengan validasi formulir
 
-## Expanding the ESLint configuration
+## Teknologi
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Cara Menjalankan Proyek
+1. Clone repository ini.
+2. Buka folder proyek di terminal.
+3. Jalankan `npm install`.
+4. Jalankan `npm run dev`.
+5. Buka alamat lokal yang ditampilkan di terminal.
+
+## Struktur Halaman
+- `/` — Home
+- `/about` — About
+- `/services` — Services
+- `/portfolio` — Destinations
+- `/contact` — Contact
