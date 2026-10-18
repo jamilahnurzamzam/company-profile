@@ -175,7 +175,7 @@ export default function Contact() {
               >
                 <p className="font-bold">Pesan berhasil disiapkan! 🌿</p>
                 <p className="mt-1">
-                  Hai, {form.name}! Formulir berhasil divalidasi.
+                  Hai, {form.name}! Formulir berhasil dikirim dan akan divalidasi.
                 </p>
               </div>
             )}
